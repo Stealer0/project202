@@ -1,0 +1,1099 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Trong nhóm các phương tiện giao thông đường bộ dưới đây, nhóm phương tiện nào là xe thô sơ?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe đạp, xe đạp máy, xe đạp điện; xe xích lô; xe lăn dùng cho người khuyết tật; xe vật nuôi kéo và các loại xe tương tự."
+        },
+        {
+          "id": 1,
+          "content": "Xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng."
+        },
+        {
+          "id": 2,
+          "content": "Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo."
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "2",
+      "question": "Theo Luật Phòng chống tác hại của rượu, bia, đối tượng nào dưới đây bị cấm sử dụng rượu, bia khi tham gia giao thông?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Người điều khiển xe ô tô, xe mô tô, xe đạp, xe gắn máy."
+        },
+        {
+          "id": 1,
+          "content": "Người được chở trên xe cơ giới."
+        },
+        {
+          "id": 2,
+          "content": "Cả hai ý trên."
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "3",
+      "question": "Khi gặp hiệu lệnh điều khiển của Cảnh sát giao thông như hình dưới đây thì người tham gia giao thông đường bộ phải đi như thế nào là đúng quy tắc giao thông?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Người tham gia giao thông đường bộ ở các hướng phải dừng lại."
+        },
+        {
+          "id": 1,
+          "content": "Người tham gia giao thông đường bộ ở các hướng được đi theo chiều gậy chỉ của Cảnh sát giao thông."
+        },
+        {
+          "id": 2,
+          "content": "Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển được đi tất cả các hướng; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển phải dừng lại."
+        },
+        {
+          "id": 3,
+          "content": "Người tham gia giao thông đường bộ ở phía trước và phía sau người điều khiển phải dừng lại; người tham gia giao thông đường bộ ở phía bên phải và phía bên trái người điều khiển được đi tất cả các hướng."
+        }
+      ],
+      "correctAnswer": 3,
+      "category": "Xử lý tình huống",
+      "image": "https://hoclaixehcm.vn/image250/44.jpg"
+    },
+    {
+      "id": "4",
+      "question": "Người lái xe được phép vượt xe trên cầu hẹp có một làn đường, đường cong có tầm nhìn bị hạn chế hay không?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Được phép vượt khi đường vắng."
+        },
+        {
+          "id": 1,
+          "content": "Không được phép vượt."
+        },
+        {
+          "id": 2,
+          "content": "Được phép vượt khi có việc gấp."
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "5",
+      "question": "Người điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Được phép."
+        },
+        {
+          "id": 1,
+          "content": "Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình."
+        },
+        {
+          "id": 2,
+          "content": "Tùy trường hợp."
+        },
+        {
+          "id": 3,
+          "content": "Không được phép."
+        }
+      ],
+      "correctAnswer": 3,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "6",
+      "question": "Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ có được sử dụng ô khi trời mưa hay không?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Được sử dụng."
+        },
+        {
+          "id": 1,
+          "content": "Chỉ người ngồi sau được sử dụng."
+        },
+        {
+          "id": 2,
+          "content": "Không được sử dụng."
+        },
+        {
+          "id": 3,
+          "content": "Được sử dụng nếu không có áo mưa."
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "7",
+      "question": "Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên, đường nhánh phải nhường đường như thế nào là đúng quy tắc giao thông?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Nhường đường cho xe đi ở bên phải mình tới."
+        },
+        {
+          "id": 1,
+          "content": "Nhường đường cho xe đi ở bên trái mình tới."
+        },
+        {
+          "id": 2,
+          "content": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới."
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "8",
+      "question": "Người điều khiển phương tiện tham gia giao thông trong hầm đường bộ ngoài việc phải tuân thủ các quy tắc giao thông còn phải thực hiện những quy định nào dưới đây?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật phát sáng báo hiệu; không dừng xe, đỗ xe trong hầm đường bộ; trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xe vào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn."
+        },
+        {
+          "id": 1,
+          "content": "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu xa; được dừng xe, đỗ xe khi cần thiết"
+        },
+        {
+          "id": 2,
+          "content": "Phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "9",
+      "question": "Người lái xe khi tham gia giao thông đường bộ phải đảm bảo các điều kiện nào dưới đây?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp (trừ người lái xe gắn máy)."
+        },
+        {
+          "id": 1,
+          "content": "Phải là người đứng tên trong đăng ký xe."
+        },
+        {
+          "id": 2,
+          "content": "Cả hai ý trên."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "10",
+      "question": "Khi gặp xe buýt đang dừng đón, trả khách, người điều khiển xe mô tô phải xử lý như thế nào dưới đây?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Tăng tốc độ để nhanh chóng vượt qua xe buýt."
+        },
+        {
+          "id": 1,
+          "content": "Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn."
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "11",
+      "question": "Người có mặt tại nơi xảy ra vụ tai giao thông đường bộ có trách nhiệm gì dưới đây?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệ hiện trường; tham gia bảo vệ tài sản của người bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền."
+        },
+        {
+          "id": 1,
+          "content": "Chụp lại hình ảnh vụ tai nạn (nếu có thiết bị ghi hình) và nhanh chóng rời khỏi hiện trường vụ tai nạn."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "12",
+      "question": "Khi đang lái xe mô tô hoặc ô tô, nếu có nhu cầu sử dụng điện thoại để nhắn tin hoặc gọi điện, người lái xe phải thực hiện như thế nào trong các tình huống nêu dưới đây?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Giảm tốc độ để bảo đảm an toàn với xe phía trước và sử dụng điện thoại để liên lạc."
+        },
+        {
+          "id": 1,
+          "content": "Giảm tốc độ để dừng xe ở nơi cho phép sau đó sử dụng điện thoại để liên lạc."
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc độ để cách xa xe phía sau và sử dụng điện thoại để liên lạc."
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "13",
+      "question": "Biển nào báo hiệu cấm xe mô tô đi vào?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/308.jpg"
+    },
+    {
+      "id": "14",
+      "question": "Biển nào là biển cấm đi ngược chiều?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/329.jpg"
+    },
+    {
+      "id": "15",
+      "question": "Biển nào xe mô tô hai bánh không được đi vào?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/353.jpg"
+    },
+    {
+      "id": "16",
+      "question": "Biển nào sau đây báo hiệu sắp đến chỗ giao nguy hiểm?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        },
+        {
+          "id": 3,
+          "content": "Cả ba biển trên"
+        }
+      ],
+      "correctAnswer": 3,
+      "category": "Biển báo giao thông",
+      "image": null
+    },
+    {
+      "id": "17",
+      "question": "Biển nào báo hiệu Giao nhau với đường không ưu tiên ?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        },
+        {
+          "id": 3,
+          "content": "Biển số 2 và Biển số 3"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/386.jpg"
+    },
+    {
+      "id": "18",
+      "question": "Biển nào báo hiệu 'Chú ý chướng ngại vật' ?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1"
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2 và Biển số 3"
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3"
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/402.jpg"
+    },
+    {
+      "id": "19",
+      "question": "Khi gặp biển nào thì các phương tiện không được đi vào, trừ xe ô tô và xe mô tô?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1."
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/434.jpg"
+    },
+    {
+      "id": "20",
+      "question": "Biển nào không cho phép rẽ phải?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1."
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2."
+        },
+        {
+          "id": 2,
+          "content": "Biển số 3."
+        },
+        {
+          "id": 3,
+          "content": "Biển số 1 và Biển số 3."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/445.jpg"
+    },
+    {
+      "id": "21",
+      "question": "Biển nào báo hiệu 'Tuyến đường cầu vượt cắt qua'?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Biển số 1 và Biển số 2."
+        },
+        {
+          "id": 1,
+          "content": "Biển số 2 và Biển số 3."
+        },
+        {
+          "id": 2,
+          "content": "Biển số 1 và Biển số 3."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Biển báo giao thông",
+      "image": "https://hoclaixehcm.vn/image250/463.jpg"
+    },
+    {
+      "id": "22",
+      "question": "Trường hợp này xe nào được quyền đi trước?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe con"
+        },
+        {
+          "id": 1,
+          "content": "Xe mô tô."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Xử lý tình huống",
+      "image": "https://hoclaixehcm.vn/image250/492.jpg"
+    },
+    {
+      "id": "23",
+      "question": "Xe nào được quyền đi trước trong trường hợp này?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe con"
+        },
+        {
+          "id": 1,
+          "content": "Xe mô tô."
+        }
+      ],
+      "correctAnswer": 1,
+      "category": "Xử lý tình huống",
+      "image": "https://hoclaixehcm.vn/image250/517.jpg"
+    },
+    {
+      "id": "24",
+      "question": "Trong hình dưới, những xe nào vi phạm quy tắc giao thông?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe con (B), xe mô tô (C)."
+        },
+        {
+          "id": 1,
+          "content": "Xe con (A), xe mô tô (C)."
+        },
+        {
+          "id": 2,
+          "content": "Xe con (E), xe mô tô (D)."
+        },
+        {
+          "id": 3,
+          "content": "Tất cả các loại xe trên."
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Xử lý tình huống",
+      "image": "https://hoclaixehcm.vn/image250/540.jpg"
+    },
+    {
+      "id": "25",
+      "question": "Xe nào dừng đúng theo quy tắc giao thông?",
+      "options": [
+        {
+          "id": 0,
+          "content": "Xe con."
+        },
+        {
+          "id": 1,
+          "content": "Xe mô tô."
+        },
+        {
+          "id": 2,
+          "content": "Cả hai xe đều đúng."
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Xử lý tình huống",
+      "image": "https://hoclaixehcm.vn/image250/563.jpg"
+    },
+    {
+      "id": "5dbd",
+      "question": "asd",
+      "options": [
+        {
+          "id": 0,
+          "content": "asd"
+        },
+        {
+          "id": 1,
+          "content": "asd"
+        },
+        {
+          "id": 2,
+          "content": "asd"
+        },
+        {
+          "id": 3,
+          "content": "asddasd"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "asd",
+      "image": null
+    },
+    {
+      "id": "254a",
+      "question": "iyy",
+      "options": [
+        {
+          "id": 0,
+          "content": "áđa"
+        },
+        {
+          "id": 1,
+          "content": "ád"
+        },
+        {
+          "id": 2,
+          "content": "qrểtrt"
+        },
+        {
+          "id": 3,
+          "content": "ẻwẻwẻwẻwẻw"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Xử lý tình huống",
+      "image": null
+    },
+    {
+      "id": "6e62",
+      "userId": "2",
+      "status": "pending",
+      "question": "asdasdasdasd",
+      "options": [
+        {
+          "id": 0,
+          "content": "asdasd"
+        },
+        {
+          "id": 1,
+          "content": "asd"
+        },
+        {
+          "id": 2,
+          "content": "asdasdasd"
+        },
+        {
+          "id": 3,
+          "content": "asdasd"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "03a8",
+      "userId": "2",
+      "status": "pending",
+      "question": "asdasdbfe",
+      "options": [
+        {
+          "id": 0,
+          "content": "asd"
+        },
+        {
+          "id": 1,
+          "content": "asd"
+        },
+        {
+          "id": 2,
+          "content": "asd"
+        },
+        {
+          "id": 3,
+          "content": "htyyttyh"
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "0e7f",
+      "question": "asdasd",
+      "options": [
+        {
+          "id": 0,
+          "content": "sdasd"
+        },
+        {
+          "id": 1,
+          "content": "asdasd"
+        },
+        {
+          "id": 2,
+          "content": "regre"
+        },
+        {
+          "id": 3,
+          "content": "erg"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null,
+      "userId": "2",
+      "status": "pending"
+    },
+    {
+      "id": "009b",
+      "question": "áđá",
+      "options": [
+        {
+          "id": 0,
+          "content": "áđá"
+        },
+        {
+          "id": 1,
+          "content": "rẻhrt"
+        },
+        {
+          "id": 2,
+          "content": "ểt"
+        },
+        {
+          "id": 3,
+          "content": "sdlkjhgf"
+        }
+      ],
+      "correctAnswer": 3,
+      "category": "Biển báo giao thông",
+      "image": null,
+      "userId": "1",
+      "status": "pending"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "name": "Admin"
+    },
+    {
+      "id": "2",
+      "username": "user1",
+      "password": "user1",
+      "role": "user",
+      "name": "User 1"
+    },
+    {
+      "id": "1521",
+      "username": "fdg",
+      "password": "sfg",
+      "name": "ádfga",
+      "role": "user"
+    },
+    {
+      "id": "7e1e",
+      "username": "123",
+      "password": "123",
+      "name": "Anh",
+      "role": "user"
+    },
+    {
+      "id": "3199",
+      "username": "1234",
+      "password": "123",
+      "name": "Anh",
+      "role": "user"
+    }
+  ],
+  "suggestedQuestions": [
+    {
+      "id": "6e62",
+      "userId": "2",
+      "status": "rejected",
+      "question": "asdasdasdasd",
+      "options": [
+        {
+          "id": 0,
+          "content": "asdasd"
+        },
+        {
+          "id": 1,
+          "content": "asd"
+        },
+        {
+          "id": 2,
+          "content": "asdasdasd"
+        },
+        {
+          "id": 3,
+          "content": "asdasd"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "03a8",
+      "userId": "2",
+      "status": "approved",
+      "question": "asdasdbfe",
+      "options": [
+        {
+          "id": 0,
+          "content": "asd"
+        },
+        {
+          "id": 1,
+          "content": "asd"
+        },
+        {
+          "id": 2,
+          "content": "asd"
+        },
+        {
+          "id": 3,
+          "content": "htyyttyh"
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Luật giao thông",
+      "image": null
+    },
+    {
+      "id": "009b",
+      "question": "áđá",
+      "options": [
+        {
+          "id": 0,
+          "content": "áđá"
+        },
+        {
+          "id": 1,
+          "content": "rẻhrt"
+        },
+        {
+          "id": 2,
+          "content": "ểt"
+        },
+        {
+          "id": 3,
+          "content": "sdlkjhgf"
+        }
+      ],
+      "correctAnswer": 3,
+      "category": "Biển báo giao thông",
+      "image": null,
+      "userId": "1",
+      "status": "approved"
+    },
+    {
+      "id": "0e7f",
+      "question": "asdasd",
+      "options": [
+        {
+          "id": 0,
+          "content": "sdasd"
+        },
+        {
+          "id": 1,
+          "content": "asdasd"
+        },
+        {
+          "id": 2,
+          "content": "regre"
+        },
+        {
+          "id": 3,
+          "content": "erg"
+        }
+      ],
+      "correctAnswer": 0,
+      "category": "Luật giao thông",
+      "image": null,
+      "userId": "2",
+      "status": "approved"
+    }
+  ],
+  "examResults": [
+    {
+      "id": "1",
+      "userId": 2,
+      "score": 8,
+      "totalQuestions": 10,
+      "answers": [
+        2,
+        0,
+        2,
+        1,
+        1,
+        0,
+        2,
+        2,
+        1,
+        2
+      ],
+      "correctAnswers": [
+        2,
+        0,
+        2,
+        1,
+        1,
+        0,
+        2,
+        2,
+        1,
+        2
+      ],
+      "date": "2024-01-15T10:30:00Z",
+      "passed": true,
+      "percentage": 80
+    },
+    {
+      "id": "ae4b",
+      "userId": "2",
+      "score": 0,
+      "totalQuestions": 10,
+      "answers": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        1,
+        3,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "passed": false,
+      "percentage": 0,
+      "date": "2025-06-10T14:44:22.598Z"
+    },
+    {
+      "id": "c6da",
+      "userId": "1",
+      "score": 0,
+      "totalQuestions": 25,
+      "answers": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        1,
+        3,
+        2,
+        2,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0
+      ],
+      "passed": false,
+      "percentage": 0,
+      "date": "2025-07-16T07:48:27.350Z"
+    },
+    {
+      "id": "3ba8",
+      "userId": "1",
+      "score": 2,
+      "totalQuestions": 25,
+      "answers": [
+        1,
+        1,
+        1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        3,
+        1,
+        0,
+        3,
+        1,
+        1,
+        0,
+        2,
+        0,
+        1,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1,
+        3,
+        0,
+        1
+      ],
+      "passed": false,
+      "percentage": 8,
+      "date": "2025-07-18T08:26:27.438Z"
+    },
+    {
+      "id": "bce8",
+      "userId": "2",
+      "score": 6,
+      "totalQuestions": 25,
+      "answers": [
+        2,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        -1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        0,
+        2,
+        1,
+        0
+      ],
+      "correctAnswers": [
+        2,
+        0,
+        1,
+        3,
+        1,
+        1,
+        3,
+        2,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        1,
+        3,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "passed": false,
+      "percentage": 24,
+      "date": "2025-07-18T08:54:22.446Z"
+    }
+  ]
+}
