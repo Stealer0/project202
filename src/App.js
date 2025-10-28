@@ -4,13 +4,13 @@ import axios from "axios"
 
 import Login from "./components/Login"
 import Dashboard from "./components/Dashboard"
-import QuestionManager from "./components/QuestionManager"
-import ExamPage from "./components/ExamPage"
-import ExamHistory from "./components/ExamHistory"
+// import QuestionManager from "./components/QuestionManager"
+// import ExamPage from "./components/ExamPage"
+// import ExamHistory from "./components/ExamHistory"
 import PracticeMode from "./components/PracticeMode"
 import QuestionSuggestionForm from "./components/QuestionSuggestionForm"
-import SuggestedQuestionsAdmin from "./components/SuggestedQuestionsAdmin"
-import SuggestHistory from "./components/SuggestHistory"
+// import SuggestedQuestionsAdmin from "./components/SuggestedQuestionsAdmin"
+// import SuggestHistory from "./components/SuggestHistory"
 
 const API_BASE_URL = "http://localhost:9999"
 
