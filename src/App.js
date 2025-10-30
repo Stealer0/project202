@@ -5,8 +5,8 @@ import axios from "axios"
 import Login from "./components/Login"
 import Dashboard from "./components/Dashboard"
 // import QuestionManager from "./components/QuestionManager"
-// import ExamPage from "./components/ExamPage"
-// import ExamHistory from "./components/ExamHistory"
+import ExamPage from "./components/ExamPage"
+import ExamHistory from "./components/ExamHistory"
 import PracticeMode from "./components/PracticeMode"
 import QuestionSuggestionForm from "./components/QuestionSuggestionForm"
 // import SuggestedQuestionsAdmin from "./components/SuggestedQuestionsAdmin"
@@ -89,9 +89,9 @@ function App() {
 
       case "exam":
         // Chọn đề ngẫu nhiên 
-        if (randomExamQuestions.length === 0 && questions.length >= 50) {
-          const random50 = getRandomQuestions(questions, 50)
-          setRandomExamQuestions(random50)
+        if (randomExamQuestions.length === 0 && questions.length >= 25) {
+          const random25 = getRandomQuestions(questions, 25)
+          setRandomExamQuestions(random25)
           return <div>Đang tạo đề thi...</div>
         }
 
