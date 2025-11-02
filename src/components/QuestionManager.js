@@ -262,3 +262,63 @@ function QuestionManager({ questions, onQuestionsChange }) {
                                 </div>
                             )}
                         </Form.Group>
+                        <Form.Group className="mb-3">
+                            <Form.Label>Ảnh minh họa (tùy chọn)</Form.Label>
+                            <Form.Control type="file" accept="image/*" onChange={handleImageUpload} />
+                            {imagePreview && (
+                                <div className="mt-2">
+                                    <img
+                                        src={imagePreview || "/placeholder.svg"}
+                                        alt="Preview"
+                                        style={{ maxWidth: "200px", maxHeight: "200px" }}
+                                    />
+                                    <br />
+                                    <Button variant="outline-danger" size="sm" className="mt-2" onClick={handleRemoveImage}>
+                                        Xóa ảnh
+                                    </Button>
+                                </div>
+                            )}
+                        </Form.Group>
+
+                        {formData.options.map((option, index) => (
+                            <Form.Group key={index} className="mb-3">
+                                <Form.Label>Đáp án {index + 1}</Form.Label>
+                                <Form.Control
+                                    type="text"
+                                    value={option.content}
+                                    onChange={(e) => handleOptionChange(index, e.target.value)}
+                                    required
+                                />
+                            </Form.Group>
+                        ))}
+
+                        <Form.Group className="mb-3">
+                            <Form.Label>Đáp án đúng</Form.Label>
+                            <Form.Select
+                                value={formData.correctAnswer}
+                                onChange={(e) => setFormData({ ...formData, correctAnswer: Number.parseInt(e.target.value) })}
+                            >
+                                {formData.options.map((option, index) => (
+                                    <option key={option.id} value={option.id}>
+                                        {index + 1} - {option.content}
+                                    </option>
+                                ))}
+                                required
+                            </Form.Select>
+                        </Form.Group>
+                    </Form>
+                </Modal.Body>
+                <Modal.Footer>
+                    <Button variant="secondary" onClick={handleCloseModal}>
+                        Hủy
+                    </Button>
+                    <Button variant="primary" onClick={handleSubmit} disabled={loading}>
+                        {loading ? "Đang lưu..." : "Lưu"}
+                    </Button>
+                </Modal.Footer>
+            </Modal>
+        </div>
+    )
+}
+
+export default QuestionManager
