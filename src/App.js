@@ -4,7 +4,7 @@ import axios from "axios"
 
 import Login from "./components/Login"
 import Dashboard from "./components/Dashboard"
-// import QuestionManager from "./components/QuestionManager"
+import QuestionManager from "./components/QuestionManager"
 import ExamPage from "./components/ExamPage"
 import ExamHistory from "./components/ExamHistory"
 import PracticeMode from "./components/PracticeMode"
