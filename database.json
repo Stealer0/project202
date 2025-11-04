@@ -844,6 +844,33 @@
       "image": null,
       "userId": "2",
       "status": "approved"
+    },
+    {
+      "id": "17d8",
+      "question": "ád98765432",
+      "options": [
+        {
+          "id": 0,
+          "content": "eu"
+        },
+        {
+          "id": 1,
+          "content": "234"
+        },
+        {
+          "id": 2,
+          "content": "234534"
+        },
+        {
+          "id": 3,
+          "content": "2352352"
+        }
+      ],
+      "correctAnswer": 2,
+      "category": "Biển báo giao thông",
+      "image": null,
+      "userId": "d72e",
+      "status": "rejected"
     }
   ],
   "examResults": [
