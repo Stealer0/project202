@@ -61,3 +61,4 @@ function QuestionManager({ questions, onQuestionsChange }) {
         setShowModal(true)
         setError("")
     }
+}
