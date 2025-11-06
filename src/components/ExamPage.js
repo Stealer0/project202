@@ -7,7 +7,7 @@ const API_BASE_URL = "http://localhost:9999"
 function ExamPage({ user, questions, onComplete }) {
   const [currentQuestion, setCurrentQuestion] = useState(0)
   const [answers, setAnswers] = useState([])
-  const [timeLeft, setTimeLeft] = useState(1200) // 20 phút
+  const [timeLeft, setTimeLeft] = useState(1200)
   const [showResult, setShowResult] = useState(false)
   const [examResult, setExamResult] = useState(null)
   const [loading, setLoading] = useState(false)
